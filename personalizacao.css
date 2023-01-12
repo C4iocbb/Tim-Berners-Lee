@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+#imagem1 {
+    border-radius: 10px; 
+    width: 300px;  
+}
+    
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    z-index: 10;
+    width:100%;
+}
+.itens {
+    display: inline;
+    padding: 10px;
+    font-family: fantasy;
+}
+#sobremim {
+    background-color: grey;
+    padding: 50px;
+}
+.titulo {
+    font-size: 23px;
+}
